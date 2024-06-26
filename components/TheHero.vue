@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <section class="hero is-info is-medium is-bold">
+  <section class="sec">
     <div class="hero-body">
       <div class="container has-text-centered">
         <h1 class="title is-size-1">
@@ -21,3 +21,5 @@
   height: 400px;
 }
 </style>
+background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
