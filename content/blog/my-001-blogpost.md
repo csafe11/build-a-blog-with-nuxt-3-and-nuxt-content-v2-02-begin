@@ -8,31 +8,7 @@ dates:
 
 
 
-# Sample Markdown
-This is some basic, sample markdown.
-## Second Heading
+# Easy Money with HTML, CSS, Javascript
+
+## Stupid easy
                
-- Unordered lists, and:
-    1. one
-    2. two
-    3.three
-                
-               
-> Blockquote
-                
-                
-And **bold**, _italics.
-[A link](https://markdowntohtml.com)
-And code highlighting:
-
-```js
-var foo = 'bar';
-
-function baz(s) {
-   return foo + ':' + s;
-}
-
-const msg = 'hello'
-```
-The end ...
-             
