@@ -1,5 +1,5 @@
 ---
-title: "My first blogpost"
+title: "Easy Money with HTML, CSS, Javascript"
 author: "@laci"
 dates:
     published: "2024-06-14"
