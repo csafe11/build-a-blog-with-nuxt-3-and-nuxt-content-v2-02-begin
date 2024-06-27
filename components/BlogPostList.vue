@@ -51,4 +51,8 @@ const {data: blogPostList} = useAsyncData('blogPostList', () => {
 .blog-post-card .title {
   margin-bottom: 1rem;
 }
+.media:hover{
+  background-color: #97d2f5;
+  color: white;
+}
 </style>

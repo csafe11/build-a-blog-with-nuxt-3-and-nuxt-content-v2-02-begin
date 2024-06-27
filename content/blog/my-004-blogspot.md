@@ -12,7 +12,7 @@ description: "Do you wanna rank number one on Google? It’s actually really har
 
 Do you wanna rank number one on Google? It’s actually really hard. Years ago, it used to be easy, but now it's challenging. Today, I'm gonna share three ways you can rank number one on Google.
 
-I got started in SEO when I was a kid with a website called Advice Monkey. It was a failed replication of Monster.com. I realized I needed SEO to get traffic, but after paying marketing firms with no results, I learned SEO myself.
+
 
 1. Focus on Content
 Google's Hummingbird update favors niche-focused, thorough content. For example, if you have a dating site, a basic article won’t cut it. Instead, write in-depth guides on creating profiles, engaging with matches, and planning dates. Be super thorough so readers find no gaps and all their questions answered.

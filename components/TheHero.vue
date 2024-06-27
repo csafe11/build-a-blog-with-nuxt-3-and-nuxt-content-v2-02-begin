@@ -19,7 +19,12 @@
   background-size: cover;
   background-repeat: no-repeat;
   height: 400px;
-}
-</style>
-background-color: #0093E9;
+  background-color: #0093E9;
 background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+
+
+</style>
+;
