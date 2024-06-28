@@ -1,5 +1,5 @@
 ---
-title: "My first blogpost"
+title: "Linux #1"
 author: "@feri"
 dates:
     published: "2024-06-14"
