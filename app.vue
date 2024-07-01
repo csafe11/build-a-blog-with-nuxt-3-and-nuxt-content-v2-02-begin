@@ -18,7 +18,10 @@ useHead({
       rel: 'stylesheet',
       href: 'https://unpkg.com/bulma@0.9.3/css/bulma.min.css'
     }
-  ]
+  ],
+  meta:[
+     { name:"google-site-verification", content:"PF0OO6ZyWx1GoZtHHZ5Z8t1QwbrDVK_au1WVm4YgQ9s"}
+    ]
 })
 </script>
 
